@@ -22,3 +22,11 @@ Ex:
 
 `mv /p/project/kiste/patakchiyousefi1/04-PROJECTS-SIMLINK ~`
 
+
+### Mount Cluster in Local Using SSHFS:
+
+Ex: Load p/project/kiste/patakchiyousefi1 in a sshfs folder:
+
+`sshfs patakchiyousefi1@juwels.fz-juelich.de:/p/project/kiste/patakchiyousefi1/ ~/kiste_sshfs/`
+
+
