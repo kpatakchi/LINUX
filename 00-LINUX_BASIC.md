@@ -25,6 +25,10 @@ Ex:
 
 ### 2. Mount Cluster in Local Using SSHFS:
 
+Install 
+
+`sudo apt-get install sshfs`
+
 Ex: Load p/project/kiste/patakchiyousefi1 in a sshfs folder:
 
 `sshfs patakchiyousefi1@juwels.fz-juelich.de:/p/project/kiste/patakchiyousefi1/ ~/kiste_sshfs/`
