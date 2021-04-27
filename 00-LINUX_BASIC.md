@@ -23,7 +23,7 @@ Ex:
 `mv /p/project/kiste/patakchiyousefi1/04-PROJECTS-SIMLINK ~`
 
 
-#### 1.2. Create a Simlink
+#### 1.3. Create a Simlink
 
 Specify the directory name as the first parameter and the symlink as the second parameter.
 
@@ -32,6 +32,15 @@ Specify the directory name as the first parameter and the symlink as the second 
 Ex: Simlink projects (kiste project) in HDFML
 
 ` ln -s /p/project/kiste/ ~/PROJECT_SYMLINKS `
+
+
+##### 1.4. Delete Files
+
+Delete a single file:
+
+`rm filename`
+
+
 
 
 ### 2. Mount Cluster in Local Using SSHFS:
