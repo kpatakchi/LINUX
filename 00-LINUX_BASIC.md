@@ -27,7 +27,7 @@ Ex:
 
 Specify the directory name as the first parameter and the symlink as the second parameter.
 
-` ln -s source simlink
+` ln -s source simlink`
 
 Ex: Simlink projects (kiste project) in HDFML
 
