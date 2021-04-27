@@ -23,6 +23,17 @@ Ex:
 `mv /p/project/kiste/patakchiyousefi1/04-PROJECTS-SIMLINK ~`
 
 
+#### 1.2. Create a Simlink
+
+Specify the directory name as the first parameter and the symlink as the second parameter.
+
+` ln -s source simlink
+
+Ex: Simlink projects (kiste project) in HDFML
+
+` ln -s /p/project/kiste/ ~/PROJECT_SYMLINKS `
+
+
 ### 2. Mount Cluster in Local Using SSHFS:
 
 Install 
